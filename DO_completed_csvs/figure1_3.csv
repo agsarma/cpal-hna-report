@@ -1,0 +1,7 @@
+,geo_name,population,population,population,population,index,index,index,index
+year,,1990,2000,2010,2022,1990,2000,2010,2022
+0,Dallas,1006877,1188580,1197816,1300642,100,118,118,129
+1,Dallas County,1852810,2218899,2368139,2604053,100,119,127,140
+2,"Dallas-Fort Worth-Arlington, TX",3984437,5156217,6366542,7673379,100,129,159,192
+
+Source: Decennial 1990 & ACS 2022 Population

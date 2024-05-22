@@ -1,0 +1,40 @@
+pop2022,Geo_QName,pop1990,population growth_prc
+644835,"Las Vegas city, Nevada",258295,149.65059331384657
+629176,"Louisville city, Kentucky",269063,133.83965836997282
+875045,"Charlotte city, North Carolina",395934,121.007794228331
+924663,"Fort Worth city, Texas",447619,106.57367091209264
+958202,"Austin city, Texas",465622,105.78967488649592
+503390,"Mesa city, Arizona",288091,74.73298367529704
+1609456,"Phoenix city, Arizona",983403,63.66189649614654
+1445662,"San Antonio city, Texas",935933,54.462124959799475
+681088,"Oklahoma City city, Oklahoma",444719,53.15019146921989
+541528,"Fresno city, California",354202,52.88677082568704
+710800,"Denver city, Colorado",467610,52.00701439233549
+950203,"Jacksonville city (remainder), Florida",635230,49.58408765329093
+646101,"Portland city, Oregon",437319,47.74135127904344
+562551,"Albuquerque city, New Mexico",384736,46.21740622140897
+902449,"Columbus city, Ohio",632910,42.587255691962525
+734603,"Seattle city, Washington",516259,42.2934999680393
+523600,"Sacramento city, California",369365,41.75679883042519
+2296253,"Houston city, Texas",1630553,40.826639796437156
+684103,"Nashville-Davidson (remainder), Tennessee",488374,40.07768636331991
+541033,"Tucson city, Arizona",405390,33.45987814203607
+677181,"El Paso city, Texas",515342,31.404193719898633
+1300642,"Dallas city, Texas",1006877,29.175857627098445
+1001176,"San Jose city, California",782248,27.98703224552827
+1383987,"San Diego city, California",1110549,24.62187620717321
+882006,"Indianapolis city (remainder), Indiana",731327,20.60350568213672
+8622467,"New York city, New York",7322564,17.752019647762722
+851036,"San Francisco city, California",723959,17.553065850414182
+505958,"Kansas City city, Missouri",435146,16.273158893796566
+665945,"Boston city, Massachusetts",574283,15.96112021424977
+3881041,"Los Angeles city, California",3485398,11.351443938396704
+670587,"Washington city, District of Columbia",606900,10.493821057834898
+630027,"Memphis city, Tennessee",610337,3.226086571844735
+1593208,"Philadelphia city, Pennsylvania",1585577,0.481275901454171
+2721914,"Chicago city, Illinois",2783726,-2.220477159030738
+573299,"Milwaukee city, Wisconsin",628088,-8.72314070639783
+584548,"Baltimore city, Maryland",736014,-20.57922811250873
+636787,"Detroit city, Michigan",1027974,-38.05417257634921
+
+Source: 1990 Census gazetteer files & ACS 2022 Population
