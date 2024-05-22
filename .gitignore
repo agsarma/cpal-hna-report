@@ -1,0 +1,5 @@
+# Ignore DO_completed_csvs
+DO_completed_csvs/
+
+# Ignore FT_completed_csvs
+FT_completed_csvs/
